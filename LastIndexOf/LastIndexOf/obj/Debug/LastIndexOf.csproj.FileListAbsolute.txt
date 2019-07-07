@@ -1,0 +1,7 @@
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\bin\Debug\LastIndexOf.exe.config
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\bin\Debug\LastIndexOf.exe
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\bin\Debug\LastIndexOf.pdb
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\obj\Debug\LastIndexOf.csprojAssemblyReference.cache
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\obj\Debug\LastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\obj\Debug\LastIndexOf.exe
+C:\Users\Code Academy\Desktop\Task04.07.2019\LastIndexOf\LastIndexOf\obj\Debug\LastIndexOf.pdb

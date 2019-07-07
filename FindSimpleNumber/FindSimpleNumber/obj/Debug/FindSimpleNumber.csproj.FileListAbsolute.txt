@@ -1,0 +1,7 @@
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\bin\Debug\FindSimpleNumber.exe.config
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\bin\Debug\FindSimpleNumber.exe
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\bin\Debug\FindSimpleNumber.pdb
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\obj\Debug\FindSimpleNumber.csprojAssemblyReference.cache
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\obj\Debug\FindSimpleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\obj\Debug\FindSimpleNumber.exe
+C:\Users\Code Academy\Desktop\Task04.07.2019\FindSimpleNumber\FindSimpleNumber\obj\Debug\FindSimpleNumber.pdb
